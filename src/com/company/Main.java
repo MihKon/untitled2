@@ -10,7 +10,7 @@ public class Main {
         System.out.println("hi");
         int [] z = new int [10];
         for (int i=0; i<10;i++){
-            z[i] = i*i+2;
+            z[i] = i*i+99;
             System.out.print(z[i]+" ");
         }
     }
